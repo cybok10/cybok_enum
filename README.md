@@ -54,7 +54,8 @@ Step 5: Review Results
         discovered_subdomains.json: Detailed results in JSON format.
 
 
-## Example Output
+# Example Output
+
 Terminal Output
 
 =============================================================
