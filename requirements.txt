@@ -1,0 +1,6 @@
+asyncio
+aiohttp
+dnspython
+pyfiglet
+tabulate
+colorama
