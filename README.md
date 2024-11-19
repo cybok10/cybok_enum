@@ -21,8 +21,8 @@ Step 1: Clone the Repository
 
 Clone the project from GitHub:
 ```
-git clone https://github.com/cybok10/cybok_enumuration.git
-cd cybok_enumuration
+git clone https://github.com/cybok10/cybok_enum.git
+cd cybok_enum
 ```
 Step 2: Install Dependencies
 
@@ -36,7 +36,7 @@ Run the Tool
 
 Run the script and provide the target domain:
 ```bash
-python cybok_enumuration.py
+python3 cybok_enum.py
 ```
 Step 4: 
 
