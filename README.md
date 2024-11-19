@@ -52,3 +52,18 @@ Step 5: Review Results
     The results are saved to:
         output.txt: List of discovered subdomains.
         discovered_subdomains.json: Detailed results in JSON format.
+
+
+## Example Output
+Terminal Output
+
+=============================================================
+Created by: Sathish_Cybok
+Version: v1.0
+=============================================================
+Enter the target domain: example.com
+
+[INFO] Discovering subdomains for: example.com
+[DISCOVERED] www.example.com ---> [IP: 93.184.216.34] ---> [Status: 200]
+[DISCOVERED] blog.example.com ---> [IP: 93.184.216.35] ---> [Status: 404]
+...
