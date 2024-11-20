@@ -1,4 +1,4 @@
-# Cybok Enumeration
+# Subdomains Enumerator 
 
 **Version:** v1.0  
 **Created by:** Sathish_Cybok
